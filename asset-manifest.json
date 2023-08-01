@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agenciadesingdigital/static/css/main.347dc955.css",
+    "main.js": "/agenciadesingdigital/static/js/main.51746764.js",
+    "static/media/banner.png": "/agenciadesingdigital/static/media/banner.24792d13f8ae0f0c8e94.png",
+    "static/media/dribble.png": "/agenciadesingdigital/static/media/dribble.5bd157081aafd8bf91df.png",
+    "static/media/moon.png": "/agenciadesingdigital/static/media/moon.aa0519968d404fb6f25a.png",
+    "static/media/behance.png": "/agenciadesingdigital/static/media/behance.17520b5be0e2ef198d5a.png",
+    "static/media/sun.png": "/agenciadesingdigital/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/facebook.png": "/agenciadesingdigital/static/media/facebook.01a470d813915c298403.png",
+    "static/media/twitter.png": "/agenciadesingdigital/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/google-plus.png": "/agenciadesingdigital/static/media/google-plus.fa256cf5db1bec2844c5.png",
+    "static/media/linkedin.png": "/agenciadesingdigital/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/agenciadesingdigital/index.html",
+    "main.347dc955.css.map": "/agenciadesingdigital/static/css/main.347dc955.css.map",
+    "main.51746764.js.map": "/agenciadesingdigital/static/js/main.51746764.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347dc955.css",
+    "static/js/main.51746764.js"
+  ]
+}
